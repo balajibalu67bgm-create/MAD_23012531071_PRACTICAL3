@@ -55,20 +55,25 @@ This is the central hub of the app, showing the various actions you can perform.
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/b6f9936a39b9cf8f510c68275cf11bd55593eb3b/Screenshot%202025-11-29%20102524.png)
 
 Opening a URL
+
 Entering a URL and clicking "Browse" uses an Implicit Intent to open a web browser.
 
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/1f6350c5a78439c26b5ec201ee45c848a82f2491/Screenshot%202025-11-29%20103010.png)
 
 Making a Phone Call
+
 Entering a phone number and clicking "Call" uses an Implicit Intent to launch the dialer.
 
 ![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/de38808a3d903fbcb59e8d9ce571c60d0771ddde/Screenshot%202025-11-29%20103036.png)
 
 Opening the Gallery
+
 Tapping "Gallery" uses an Implicit Intent to open the device's gallery app.
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/042ed0530cc7cd8118754a17612fd21a3641d01b/Screenshot%202025-11-29%20103127.png)
+
 Launching the Camera
+
 Tapping "Camera" uses an Implicit Intent to open the device's camera application.
 
 ![image alt]()
