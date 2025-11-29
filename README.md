@@ -88,7 +88,8 @@ Navigating to Login & Registration
 
 The "Login" button triggers an Explicit Intent to open the LoginActivity within the app.
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/5ce99e5ad4a1a8b14e7f3ce3fb8962c402e894ae/Screenshot%202025-11-29%20103222.png)
+
 The LoginActivity then provides an option to navigate to the RegisterActivity.
 
 ![image alt]()
