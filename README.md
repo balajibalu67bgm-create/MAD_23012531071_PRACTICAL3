@@ -92,8 +92,10 @@ The "Login" button triggers an Explicit Intent to open the LoginActivity within 
 
 The LoginActivity then provides an option to navigate to the RegisterActivity.
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/e93fd16e5460686a8e3b449aed70028983eee457/Screenshot%202025-11-29%20103240.png)
+
 Learning Outcomes
+
 By studying and running this application, one can gain a better understanding of:
 
 The fundamental differences between explicit and implicit intents.
