@@ -52,7 +52,7 @@ AndroidManifest.xml: Contains declarations for activities and potentially requir
 Demonstration Screenshots
 Main Screen
 This is the central hub of the app, showing the various actions you can perform.
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL3/blob/b6f9936a39b9cf8f510c68275cf11bd55593eb3b/Screenshot%202025-11-29%20102524.png)
 Opening a URL
 Entering a URL and clicking "Browse" uses an Implicit Intent to open a web browser.
 
